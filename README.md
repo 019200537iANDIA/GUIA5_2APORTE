@@ -1,6 +1,6 @@
 # guia5
 
-A new Flutter project.
+guia 5 con las actividades completas
 
 ## Getting Started
 
